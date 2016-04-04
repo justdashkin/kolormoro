@@ -1,0 +1,13 @@
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\bin\Debug\kolormoro.exe.config
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\bin\Debug\kolormoro.exe
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\bin\Debug\kolormoro.pdb
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\bin\Debug\WebDriver.dll
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\bin\Debug\WebDriver.Support.dll
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\bin\Debug\WebDriver.xml
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\bin\Debug\WebDriver.Support.xml
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\obj\Debug\kolormoro.csprojResolveAssemblyReference.cache
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\obj\Debug\kolormoro.exe
+d:\Users\user\Pictures\Documents\Visual Studio 2015\Projects\Task 6\kolormoro\kolormoro\obj\Debug\kolormoro.pdb
+d:\Users\user\Desktop\kolormoro\kolormoro\bin\Debug\kolormoro.exe.config
+d:\Users\user\Desktop\kolormoro\kolormoro\obj\Debug\kolormoro.exe
+d:\Users\user\Desktop\kolormoro\kolormoro\obj\Debug\kolormoro.pdb
